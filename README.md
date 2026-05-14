@@ -5,12 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
+- Nome: Lucas Oliveira Dias
 - Matricula:
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
+![imagem](image.png)
 
 
 
