@@ -11,7 +11,7 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
-![imagem](image.png)
+![imagem](public/image.png)
 
 
 
